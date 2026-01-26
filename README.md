@@ -37,16 +37,6 @@ At my core, I am motivated by solving meaningful problems with data and turning 
 
 <a href="http://www.github.com/Mohit-1307"><img src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide=&title_color=ffffff&text_color=10b981&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Mohit-1307's GitHub stats" /></a>
 
-<a href="https://github.com/Mohit-1307">
-  <img src="https://streak-stats.demolab.com?user=Mohit-1307
-  &background=27272a
-  &ring=ffffff
-  &fire=ffffff
-  &currStreakNum=10b981
-  &sideNums=10b981
-  &sideLabels=10b981
-  &dates=10b981
-  &hide_border=true" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&stroke=10b981&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true)](https://github.com/Mohit-1307)
 
 <a href="https://github.com/Mohit-1307" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
