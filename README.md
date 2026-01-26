@@ -40,7 +40,7 @@ At my core, I am motivated by solving meaningful problems with data and turning 
 
 <a href="https://github.com/Mohit-1307">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
     alt="GitHub Streak Stats"
   />
 </a>
