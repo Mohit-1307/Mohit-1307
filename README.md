@@ -37,6 +37,6 @@ At my core, I am motivated by solving meaningful problems with data and turning 
 
 <a href="http://www.github.com/Mohit-1307"><img src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide=&title_color=ffffff&text_color=10b981&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Mohit-1307's GitHub stats" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&theme=dark&bg_color=27272a&text_color=10b981&icon_color=10b981&title_color=ffffff&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&theme=dark)
 
 <a href="https://github.com/Mohit-1307" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
