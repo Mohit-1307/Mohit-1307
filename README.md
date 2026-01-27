@@ -12,7 +12,6 @@ Hi! My name is MOHIT SINGH RAJPUT<br><br><br>ML Engineer<br><br>-----------<br><
 ![](https://github-readme-stats.vercel.app/api?username=Mohit-1307&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohit-1307&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <br>
 ### ◆ 🔝 Contributed Repo
 
