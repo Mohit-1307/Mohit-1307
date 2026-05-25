@@ -1,15 +1,89 @@
-Hi! My name is MOHIT SINGH RAJPUT<br><br><br>ML Engineer<br><br>-----------<br><br>I am a Machine Learning Engineer with a strong foundation in applied machine learning, data-driven problem solving, and end-to-end model development. My work focuses on designing, building, and deploying scalable ML systems that translate complex data into measurable business and product impact.<br><br>I have hands-on experience across the full machine learning lifecycle—from data collection, cleaning, and exploratory analysis to feature engineering, model training, evaluation, optimization, and production deployment. I work comfortably with both classical machine learning algorithms and modern deep learning techniques, selecting approaches based on problem constraints, data availability, and performance requirements rather than trends alone.<br><br>My technical expertise includes supervised and unsupervised learning, time-series analysis, natural language processing, and model interpretability. I am experienced in using Python-based ML ecosystems, building reproducible pipelines, and integrating models into real-world applications through APIs and scalable services. I place strong emphasis on writing clean, maintainable code and designing systems that are reliable, testable, and easy to monitor in production.<br><br>Beyond modeling, I care deeply about data quality, evaluation rigor, and responsible AI practices. I believe that strong ML systems are built not just on accuracy metrics, but on robustness, fairness, transparency, and alignment with real-world use cases. I routinely analyze model failures, handle edge cases, and iterate based on feedback from both data and stakeholders.<br><br>I enjoy collaborating with cross-functional teams including data engineers, software engineers, and product managers to ensure machine learning solutions are well-integrated and aligned with broader system architecture and business goals. I’m comfortable explaining complex technical concepts to non-technical audiences and contributing to decision-making with clear, evidence-based insights.<br><br>Driven by curiosity and continuous learning, I actively stay up to date with advancements in machine learning research, tooling, and best practices. I enjoy experimenting with new ideas, benchmarking approaches, and refining systems to improve performance, scalability, and efficiency over time.<br><br>At my core, I am motivated by solving meaningful problems with data and turning machine learning from an abstract concept into reliable, impactful solutions that work in the real world.<br><br>
+<div align="center">
 
-### ◆ Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msr_1307) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/13.mohit.singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/13.mohit.singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mohit1307) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohitSingh77032) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
-<br>
-### ◆ Skills
+# Mohit Singh Rajput
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-<br>
-### ◆ GitHub Stats
+### AI / ML Engineer
 
-![](https://github-readme-stats.vercel.app/api?username=Mohit-1307&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohit-1307&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
+*Building reliable, scalable machine learning systems — from raw data to production.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Mohit1307)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MohitSingh77032)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/msr_1307)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I design, build, and deploy end-to-end ML systems that turn complex data into measurable business impact.
+
+My work spans the **full machine learning lifecycle** — data collection, feature engineering, model development, evaluation, optimization, and production deployment. I choose approaches based on problem constraints and data realities, not trends.
+
+**Core focus areas:**
+- Supervised & unsupervised learning, time-series, NLP, model interpretability
+- Reproducible ML pipelines and scalable API-based model serving
+- Data quality, evaluation rigor, and responsible AI practices
+- Cross-functional collaboration with data engineers, SWEs, and product teams
+
+I care as much about **robustness, fairness, and real-world reliability** as I do about accuracy metrics.
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### ML / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-1307&theme=swift&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mohit-1307&theme=swift&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&theme=swift&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaboration, research discussions, and impactful ML projects.*
+**Let's connect →** [LinkedIn](https://linkedin.com/in/mohitsingh1307) · [Email](mailto:mohitsinghdausa@gmail.com)
+
+</div>
