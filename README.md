@@ -1,13 +1,12 @@
 <div align="center">
 
-# Mohit Singh Rajput
+# MOHIT SINGH RAJPUT
 
 ### AI / ML Engineer
 
 *Building reliable, scalable machine learning systems — from raw data to production.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Mohit1307)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MohitSingh77032)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/msr_1307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
