@@ -100,6 +100,9 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 
 *Open to collaboration, research discussions, and impactful ML projects.*
 
-**Let's connect →** [LinkedIn](https://linkedin.com/in/mohitsingh1307) · [Kaggle](https://www.kaggle.com/mohitsinghrajput1307) · [Email](mailto:mohitsinghdausa@gmail.com)
+**Let's connect →** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohit-1307)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
 
 </div>
