@@ -49,7 +49,6 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 ### 👁️ Computer Vision
 
 [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
 
 ### 📊 Data Science
 
