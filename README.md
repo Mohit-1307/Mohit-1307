@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohit Singh Rajput
+# MOHIT SINGH RAJPUT
 
 ### Machine Learning Engineer | AI Systems Builder | Data-Driven Problem Solver
 
@@ -17,10 +17,6 @@ Building end-to-end machine learning systems, scalable AI applications, and prod
 
 <a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://x.com/MohitSingh77032">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:mohitsinghdausa@gmail.com">
@@ -134,4 +130,4 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
 
-</div> -->
+</div>
