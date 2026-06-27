@@ -112,15 +112,33 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 
 # Mohit Singh Rajput
 
-### Machine Learning Engineer | AI Systems Builder
+### Machine Learning Engineer | AI Systems Builder | Data-Driven Problem Solver
 
-Building production-ready machine learning solutions, data-driven applications, and intelligent systems.
+Building end-to-end machine learning systems, scalable AI applications, and production-ready solutions.
 
-[LinkedIn](https://linkedin.com/in/mohitsingh1307) •
-[Kaggle](https://www.kaggle.com/mohitsinghrajput1307) •
-[LeetCode](https://leetcode.com/u/MOHIT_SINGH_RAJPUT/) •
-[X](https://x.com/MohitSingh77032) •
-[Email](mailto:mohitsinghdausa@gmail.com)
+<p>
+<a href="https://linkedin.com/in/mohitsingh1307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/mohitsinghrajput1307">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://x.com/MohitSingh77032">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:mohitsinghdausa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mohit-1307&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -128,18 +146,11 @@ Building production-ready machine learning solutions, data-driven applications, 
 
 ## About Me
 
-I am a Machine Learning Engineer focused on transforming data into reliable and scalable AI solutions.
-
-My interests span:
-
-* Machine Learning & Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Generative AI & LLM Applications
-* MLOps & Model Deployment
-* Data Science & Analytics
-
-I enjoy solving real-world problems through data, building end-to-end ML pipelines, and deploying models that create measurable impact.
+* Machine Learning Engineer passionate about solving real-world problems using AI
+* Building projects across Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
+* Strong focus on model evaluation, deployment, scalability, and reproducibility
+* Interested in MLOps, LLM Applications, RAG Systems, and AI Agents
+* Open to research collaborations, internships, and impactful AI projects
 
 ---
 
@@ -147,45 +158,30 @@ I enjoy solving real-world problems through data, building end-to-end ML pipelin
 
 ### Machine Learning & AI
 
-* Scikit-Learn
-* PyTorch
-* TensorFlow
-* Hugging Face Transformers
-* OpenCV
-* LangChain
-* Vector Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
 
 ### Data Science
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Feature Engineering
-* Statistical Analysis
-
-### Programming
-
-* Python
-* C++
-* C
-* SQL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 
 ### Deployment & Cloud
 
-* FastAPI
-* Flask
-* Docker
-* AWS
-* Azure
-* Cloudflare
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
 ### Tools
 
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
@@ -193,75 +189,87 @@ I enjoy solving real-world problems through data, building end-to-end ML pipelin
 
 ### Flipkart Customer Satisfaction Prediction
 
-End-to-end machine learning pipeline for predicting customer satisfaction scores using advanced preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
+* End-to-end ML pipeline
+* Advanced feature engineering
+* Hyperparameter tuning
+* Business-focused model evaluation
 
-**Tech:** Python, Scikit-Learn, Pandas, XGBoost
+### AI-Powered RAG Applications
 
----
-
-### AI-Powered Applications
-
-Building intelligent systems leveraging LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and vector search.
-
-**Tech:** LangChain, Hugging Face, Vector Databases
-
----
+* Retrieval-Augmented Generation
+* Vector Search
+* LLM Integration
+* Knowledge-Based QA Systems
 
 ### Computer Vision Solutions
 
-Developing image classification, object detection, and visual intelligence systems using modern deep learning techniques.
-
-**Tech:** PyTorch, OpenCV, CNNs
-
----
-
-## Current Focus
-
-* Advanced Machine Learning
-* Deep Learning Architectures
-* MLOps & Production ML
-* Large Language Models (LLMs)
-* AI Agent Systems
-* System Design for AI Applications
+* Image Classification
+* CNN-based Architectures
+* Model Deployment Pipelines
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&langs_count=8&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&hide_border=true"/>
 
 </div>
 
 ---
 
-## LeetCode
-
-* Consistently practicing Data Structures and Algorithms
-* Strengthening problem-solving and system thinking
-* Applying algorithmic principles to ML systems
-
----
-
-## Let's Connect
-
-I am always interested in discussing:
-
-* Machine Learning
-* Artificial Intelligence
-* Research Opportunities
-* Open Source Contributions
-* Collaborative Projects
-
-📩 Reach me at: **[mohitsinghdausa@gmail.com](mailto:mohitsinghdausa@gmail.com)**
-
----
+## Contribution Activity
 
 <div align="center">
 
-*"Turning data into intelligent systems."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-1307&hide_border=true"/>
+
+</div>
+
+---
+
+## Competitive Programming
+
+* Active LeetCode Practitioner
+* Strong foundation in Data Structures & Algorithms
+* Applying algorithmic thinking to Machine Learning systems
+
+---
+
+## Current Focus
+
+```text
+Machine Learning
+Deep Learning
+Generative AI
+RAG Systems
+AI Agents
+MLOps
+System Design
+```
+
+---
+
+## Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/mohitsingh1307">LinkedIn</a> •
+<a href="https://www.kaggle.com/mohitsinghrajput1307">Kaggle</a> •
+<a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">LeetCode</a> •
+<a href="mailto:mohitsinghdausa@gmail.com">Email</a>
+</p>
+
+<div align="center">
+
+### Turning Data into Intelligent Systems
 
 </div>
