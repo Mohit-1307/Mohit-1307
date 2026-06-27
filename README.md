@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Mohit Singh Rajput</h1>
+<h1>MOHIT SINGH RAJPUT</h1>
 
 <p><strong>Machine Learning Engineer &nbsp;·&nbsp; Applied AI Engineer &nbsp;·&nbsp; End-to-End ML Systems</strong></p>
 
@@ -31,73 +31,134 @@
 
 I am a Machine Learning Engineer who works across the complete ML lifecycle — data acquisition, feature engineering, model development, evaluation, deployment, monitoring, and iteration. I treat machine learning as a software engineering discipline, not an experimentation exercise. That means reproducible pipelines, maintainable code, and systems that hold up under real-world conditions.
 
-My current focus sits at the intersection of classical ML, deep learning, and production-grade Generative AI — particularly RAG systems, LLM evaluation, and scalable inference pipelines.
+My current focus sits at the intersection of classical ML, deep learning, and production-grade Generative AI — particularly agentic systems with LangGraph, RAG pipelines, LLM evaluation, and scalable inference.
 
 ---
 
 ## Technical Stack
 
-| Domain | Tools & Frameworks |
+| Domain | Technologies |
 |---|---|
-| **Languages** | Python, C++, C |
-| **Machine Learning** | Scikit-learn, XGBoost, LightGBM, CatBoost |
-| **Deep Learning** | PyTorch, TensorFlow, Keras |
-| **Generative AI & LLMs** | Hugging Face, Transformers, LangChain, RAG, Vector Databases |
-| **NLP** | Text Classification, Embeddings, Information Retrieval, Sentiment Analysis |
-| **Computer Vision** | OpenCV, CNNs, Transfer Learning |
-| **Data & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis |
-| **MLOps & Deployment** | FastAPI, Docker, Git, GitHub Actions |
-| **Cloud** | AWS, Azure, Cloudflare |
-| **Databases** | SQL, Vector Databases |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02AFEE?style=flat-square&logo=lightgbm&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **Generative AI & LLMs** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
+| **NLP** | ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/NLTK-3F7CAC?style=flat-square&logo=python&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) |
+| **MLOps & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white) |
 
 ---
 
 ## Featured Projects
 
+### AI Agents & RAG Systems with LangGraph
+
+**[Repository →](https://github.com/Mohit-1307/AI-Agents-and-RAG-Systems-with-LangGraph)**
+
+A structured, production-oriented implementation of agentic AI workflows using LangGraph — covering stateless graphs through multi-agent coordination and RAG pipelines, with full local execution via Ollama.
+
+**Approach:**
+- Built a phased learning and implementation path: stateless bot agents → persistent memory agents → conditional routing → ReAct tool-use → multi-agent coordination → RAG pipelines
+- Implemented `bot_agent`, `memory_agent`, `sequential_agent`, `conditional_agent`, `react_agent`, `looping_agent`, and `drafter_agent` as self-contained, progressively complex modules
+- Built a RAG pipeline (`rag_agent.py`) with ChromaDB as the vector store and Ollama (`mxbai-embed-large`) for local embeddings — no external API required
+- Designed all agents around LangGraph's `StateGraph` paradigm with explicit node/edge wiring and shared state management
+
+**Stack:** `Python` · `LangGraph` · `LangChain` · `Ollama` · `ChromaDB` · `Jupyter`
+
+---
+
+### Emotion Recognition from Speech
+
+**[Repository →](https://github.com/Mohit-1307/CodeAlpha_EmotionRecognitionFromSpeech)**
+
+Deep learning system for classifying speech emotion from audio using MFCC feature extraction and a CNN model trained on the RAVDESS dataset, with a real-time Streamlit interface.
+
+**Approach:**
+- Extracted MFCC (Mel-Frequency Cepstral Coefficient) features from audio using Librosa as the primary signal representation
+- Trained a CNN to classify eight emotions from the RAVDESS dataset: Neutral, Calm, Happy, Sad, Angry, Fearful, Disgust, Surprised
+- Separated training (`train.py`), inference (`predict.py`), utilities (`utils.py`), and label mapping (`labels.py`) into distinct modules for maintainability
+- Deployed a Streamlit app supporting real-time audio upload and emotion prediction with confusion matrix and training curve visualizations
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `Librosa` · `Scikit-learn` · `Streamlit`
+
+---
+
+### Heart Disease Prediction from Medical Data
+
+**[Repository →](https://github.com/Mohit-1307/CodeAlpha-DiseasePredictionfromMedicalData)**
+
+End-to-end supervised ML pipeline for heart disease risk classification using 13 clinical features from the UCI Heart Disease dataset, with a real-time Streamlit inference interface.
+
+**Approach:**
+- Performed EDA with correlation heatmaps, distribution plots, and statistical summaries across 13 clinical features
+- Applied StandardScaler normalization and handled missing values before model training
+- Trained and compared three classifiers — Logistic Regression, Random Forest, and SVM — evaluated across Accuracy, Precision, Recall, F1, and ROC-AUC
+- Serialized the best model and fitted scaler with Joblib for consistent production inference
+- Deployed an interactive Streamlit app for real-time patient risk prediction
+
+**Stack:** `Python` · `Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib` · `Streamlit` · `Joblib`
+
+**Key Results:**
+- Random Forest achieved 88–92% accuracy with the strongest ROC-AUC, selected as the deployment model
+- ROC-AUC used as the primary metric over accuracy to handle class imbalance in medical data
+
+---
+
+### Handwritten Character Recognition — CNN
+
+**[Repository →](https://github.com/Mohit-1307/CodeAlpha-HandwrittenCharacterRecognition)**
+
+CNN-based digit recognition system trained on MNIST with a robust OpenCV preprocessing pipeline for real-world image normalization and a Streamlit inference interface.
+
+**Approach:**
+- Designed a custom CNN: two Conv2D + ReLU + MaxPool blocks followed by a 128-unit dense layer and 10-class Softmax output
+- Built a multi-stage OpenCV preprocessing pipeline: grayscale → Gaussian blur → adaptive thresholding → morphological dilation → contour detection → crop → resize to 28×28 → normalize
+- Trained on 60,000 MNIST images, evaluated on 10,000 held-out test samples
+- Deployed as a Streamlit web app returning digit prediction and confidence score from uploaded images
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `OpenCV` · `NumPy` · `Matplotlib` · `Streamlit`
+
+**Key Results:**
+- ~99% test accuracy on MNIST
+- Preprocessing pipeline handles varied real-world inputs (different sizes, backgrounds, lighting conditions) before inference
+
+---
+
 ### Shopper Spectrum — Customer Segmentation & Product Recommendations
 
-**Problem:** E-commerce platforms struggle to understand heterogeneous customer bases and serve relevant product recommendations at scale.
+**[Repository →](https://github.com/Mohit-1307)**
+
+End-to-end unsupervised ML pipeline for e-commerce customer segmentation using RFM analysis and four clustering algorithms, paired with collaborative filtering and TF-IDF content-based recommendations, deployed as a Streamlit app.
 
 **Approach:**
 - Built an RFM (Recency, Frequency, Monetary) pipeline to extract behavioral signals from raw transaction data
-- Applied and compared four unsupervised clustering algorithms — KMeans, Agglomerative Hierarchical, Gaussian Mixture Models, and DBSCAN — with full evaluation using silhouette scores, Davies-Bouldin index, and Calinski-Harabasz index
-- Implemented collaborative filtering for user-based product recommendations
-- Built a TF-IDF content-based recommendation system as a fallback for cold-start scenarios
-- Deployed an interactive Streamlit application with live segmentation and recommendation outputs, backed by serialized model artifacts
+- Applied and compared KMeans, Agglomerative Hierarchical, GMM, and DBSCAN — evaluated using silhouette score, Davies-Bouldin index, and Calinski-Harabasz index
+- Implemented user-based collaborative filtering for product recommendations and TF-IDF content-based filtering for cold-start scenarios
+- Deployed a Streamlit app with live segmentation outputs and synchronized model artifacts
 
 **Stack:** `Python` · `Scikit-learn` · `Pandas` · `Matplotlib` · `Seaborn` · `Streamlit` · `Pickle`
 
 **Key Outcomes:**
 - Identified distinct, interpretable customer segments (Champions, Loyal, At-Risk, Lost) with verified cluster-segment mapping
-- Delivered a working end-to-end app with synchronized model artifacts and clean, audited notebook documentation
+- Full notebook audit cycle catching and correcting real errors — inverted cluster mapping, row count discrepancy, overstated diagnostic claim
 
 ---
 
 ### Flipkart CSAT Prediction
 
-**Problem:** Predicting customer satisfaction scores from support interaction data to enable proactive service quality management.
+**[Repository →](https://github.com/Mohit-1307)**
+
+Supervised classification pipeline for predicting customer satisfaction scores from Flipkart support interaction data to enable proactive service quality management.
 
 **Approach:**
-- Performed structured EDA and feature engineering on Flipkart support data
-- Built and evaluated classification models to predict CSAT outcomes
-- Applied rigorous preprocessing including encoding, scaling, and class imbalance handling
-- Benchmarked multiple estimators with cross-validated performance metrics
+- Performed structured EDA and feature engineering on support interaction records
+- Applied preprocessing including categorical encoding, feature scaling, and class imbalance handling
+- Benchmarked multiple estimators including XGBoost with cross-validated performance metrics
 
 **Stack:** `Python` · `Scikit-learn` · `XGBoost` · `Pandas` · `Matplotlib` · `Seaborn`
-
----
-
-## Areas of Expertise
-
-**Machine Learning Systems** — Supervised and unsupervised learning, feature engineering, ensemble methods, model evaluation and validation, hyperparameter optimization
-
-**Deep Learning** — Neural network architectures, CNNs for computer vision, sequence modeling, transfer learning, fine-tuning
-
-**Generative AI & LLMs** — Prompt engineering, Retrieval-Augmented Generation, embeddings and vector search, LLM evaluation, AI application development
-
-**Data Engineering for ML** — Data cleaning and validation, EDA, feature pipelines, dataset versioning, data quality monitoring
-
-**Production ML** — API-based model serving, containerized deployments, experiment tracking, model monitoring, reproducible workflows
 
 ---
 
@@ -117,8 +178,8 @@ My current focus sits at the intersection of classical ML, deep learning, and pr
 
 ## Current Focus
 
-- Production-ready machine learning systems with full deployment pipelines
-- Retrieval-Augmented Generation applications and LLM evaluation frameworks
+- Agentic AI system design with LangGraph and LangChain
+- Production-ready RAG pipelines and LLM evaluation frameworks
 - MLOps best practices — CI/CD for ML, model monitoring, drift detection
 - Scalable AI infrastructure and efficient model serving
 
@@ -128,8 +189,8 @@ My current focus sits at the intersection of classical ML, deep learning, and pr
 
 - Advanced MLOps and CI/CD for ML workflows
 - Distributed training and inference at scale
-- Agentic AI system design
 - LLM fine-tuning and alignment techniques
+- Model monitoring and observability in production
 - Cloud-native ML architectures on AWS and Azure
 
 ---
@@ -158,7 +219,7 @@ I am actively looking to contribute to and collaborate on:
 - Machine learning engineering projects with real-world deployment requirements
 - Open-source AI tools and ML infrastructure
 - NLP, computer vision, and generative AI applications
-- Research-to-production workflows
+- Agentic AI systems and research-to-production workflows
 
 If you are building impactful AI systems or need an engineer who can take a project from data to deployment, reach out.
 
