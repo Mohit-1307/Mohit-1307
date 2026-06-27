@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # MOHIT SINGH RAJPUT
 
@@ -105,5 +105,163 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 **Let's connect →** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
+
+</div> -->
+
+<div align="center">
+
+# Mohit Singh Rajput
+
+### Machine Learning Engineer | AI Systems Builder
+
+Building production-ready machine learning solutions, data-driven applications, and intelligent systems.
+
+[LinkedIn](https://linkedin.com/in/mohitsingh1307) •
+[Kaggle](https://www.kaggle.com/mohitsinghrajput1307) •
+[LeetCode](https://leetcode.com/u/MOHIT_SINGH_RAJPUT/) •
+[X](https://x.com/MohitSingh77032) •
+[Email](mailto:mohitsinghdausa@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I am a Machine Learning Engineer focused on transforming data into reliable and scalable AI solutions.
+
+My interests span:
+
+* Machine Learning & Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Generative AI & LLM Applications
+* MLOps & Model Deployment
+* Data Science & Analytics
+
+I enjoy solving real-world problems through data, building end-to-end ML pipelines, and deploying models that create measurable impact.
+
+---
+
+## Tech Stack
+
+### Machine Learning & AI
+
+* Scikit-Learn
+* PyTorch
+* TensorFlow
+* Hugging Face Transformers
+* OpenCV
+* LangChain
+* Vector Databases
+
+### Data Science
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Feature Engineering
+* Statistical Analysis
+
+### Programming
+
+* Python
+* C++
+* C
+* SQL
+
+### Deployment & Cloud
+
+* FastAPI
+* Flask
+* Docker
+* AWS
+* Azure
+* Cloudflare
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+
+---
+
+## Featured Projects
+
+### Flipkart Customer Satisfaction Prediction
+
+End-to-end machine learning pipeline for predicting customer satisfaction scores using advanced preprocessing, feature engineering, hyperparameter tuning, and model evaluation.
+
+**Tech:** Python, Scikit-Learn, Pandas, XGBoost
+
+---
+
+### AI-Powered Applications
+
+Building intelligent systems leveraging LLMs, Retrieval-Augmented Generation (RAG), prompt engineering, and vector search.
+
+**Tech:** LangChain, Hugging Face, Vector Databases
+
+---
+
+### Computer Vision Solutions
+
+Developing image classification, object detection, and visual intelligence systems using modern deep learning techniques.
+
+**Tech:** PyTorch, OpenCV, CNNs
+
+---
+
+## Current Focus
+
+* Advanced Machine Learning
+* Deep Learning Architectures
+* MLOps & Production ML
+* Large Language Models (LLMs)
+* AI Agent Systems
+* System Design for AI Applications
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+## LeetCode
+
+* Consistently practicing Data Structures and Algorithms
+* Strengthening problem-solving and system thinking
+* Applying algorithmic principles to ML systems
+
+---
+
+## Let's Connect
+
+I am always interested in discussing:
+
+* Machine Learning
+* Artificial Intelligence
+* Research Opportunities
+* Open Source Contributions
+* Collaborative Projects
+
+📩 Reach me at: **[mohitsinghdausa@gmail.com](mailto:mohitsinghdausa@gmail.com)**
+
+---
+
+<div align="center">
+
+*"Turning data into intelligent systems."*
 
 </div>
