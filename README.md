@@ -85,12 +85,6 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&theme=swift&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=Mohit-1307&theme=swift&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 
 </div>
