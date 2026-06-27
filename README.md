@@ -196,18 +196,12 @@ Supervised classification pipeline for predicting customer satisfaction scores f
 ---
 
 ## GitHub Analytics
-
 <div align="center">
-
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&rank_icon=github"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true"/>
-
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-1307&hide_border=true&theme=tokyonight"/>
 </div>
 
 ---
