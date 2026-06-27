@@ -1,17 +1,34 @@
-<!-- <div align="center">
+<div align="center">
 
-# MOHIT SINGH RAJPUT
+# Mohit Singh Rajput
 
-### AI / ML Engineer
+### Machine Learning Engineer | AI Systems Builder | Data-Driven Problem Solver
 
-*Building reliable, scalable machine learning systems — from raw data to production.*
+Building end-to-end machine learning systems, scalable AI applications, and production-ready solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MOHIT_SINGH_RAJPUT/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MohitSingh77032)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/msr_1307)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
+<p>
+<a href="https://linkedin.com/in/mohitsingh1307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/mohitsinghrajput1307">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://x.com/MohitSingh77032">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:mohitsinghdausa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mohit-1307&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -81,134 +98,6 @@ I care as much about **robustness, fairness, and real-world reliability** as I d
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&theme=swift&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Mohit-1307&theme=swift&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-*Open to collaboration, research discussions, and impactful ML projects.*
-
-**Let's connect →** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
-
-</div> -->
-
-<div align="center">
-
-# Mohit Singh Rajput
-
-### Machine Learning Engineer | AI Systems Builder | Data-Driven Problem Solver
-
-Building end-to-end machine learning systems, scalable AI applications, and production-ready solutions.
-
-<p>
-<a href="https://linkedin.com/in/mohitsingh1307">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/mohitsinghrajput1307">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://x.com/MohitSingh77032">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:mohitsinghdausa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Mohit-1307&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## About Me
-
-* Machine Learning Engineer passionate about solving real-world problems using AI
-* Building projects across Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI
-* Strong focus on model evaluation, deployment, scalability, and reproducibility
-* Interested in MLOps, LLM Applications, RAG Systems, and AI Agents
-* Open to research collaborations, internships, and impactful AI projects
-
----
-
-## Tech Stack
-
-### Machine Learning & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
-
-### Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
-
-### Deployment & Cloud
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## Featured Projects
-
-### Flipkart Customer Satisfaction Prediction
-
-* End-to-end ML pipeline
-* Advanced feature engineering
-* Hyperparameter tuning
-* Business-focused model evaluation
-
-### AI-Powered RAG Applications
-
-* Retrieval-Augmented Generation
-* Vector Search
-* LLM Integration
-* Knowledge-Based QA Systems
-
-### Computer Vision Solutions
-
-* Image Classification
-* CNN-based Architectures
-* Model Deployment Pipelines
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -237,39 +126,12 @@ Building end-to-end machine learning systems, scalable AI applications, and prod
 
 ---
 
-## Competitive Programming
-
-* Active LeetCode Practitioner
-* Strong foundation in Data Structures & Algorithms
-* Applying algorithmic thinking to Machine Learning systems
-
----
-
-## Current Focus
-
-```text
-Machine Learning
-Deep Learning
-Generative AI
-RAG Systems
-AI Agents
-MLOps
-System Design
-```
-
----
-
-## Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/mohitsingh1307">LinkedIn</a> •
-<a href="https://www.kaggle.com/mohitsinghrajput1307">Kaggle</a> •
-<a href="https://leetcode.com/u/MOHIT_SINGH_RAJPUT/">LeetCode</a> •
-<a href="mailto:mohitsinghdausa@gmail.com">Email</a>
-</p>
-
 <div align="center">
 
-### Turning Data into Intelligent Systems
+*Open to collaboration, research discussions, and impactful ML projects.*
 
-</div>
+**Let's connect →** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohitsinghrajput1307)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitsinghdausa@gmail.com)
+
+</div> -->
