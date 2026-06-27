@@ -199,8 +199,8 @@ Supervised classification pipeline for predicting customer satisfaction scores f
 
 <div align="center">
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&rank_icon=github"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=Mohit-1307&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-1307&layout=compact&hide_border=true"/>
 
 </div>
 
