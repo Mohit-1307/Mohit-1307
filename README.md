@@ -13,6 +13,9 @@
   <a href="https://github.com/Mohit-1307">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/Mohit-1307">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.kaggle.com/mohitsinghrajput1307">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
