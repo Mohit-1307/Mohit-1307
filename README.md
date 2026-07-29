@@ -63,19 +63,45 @@ One flag: I don't have your actual repo history, so "TFLite/ONNX export, CPU-onl
 
 ## Featured Projects
 
-### AI Agents & RAG Systems with LangGraph
+### Multi-Agent AI Customer Support Assistant (RAG + LLMs)
 
-**[Repository →](https://github.com/Mohit-1307/AI-Agents-and-RAG-Systems-with-LangGraph)**
+**[Repository →](https://github.com/Mohit-1307/Multi-Agent-AI-Customer-Support-Assistant)**
 
-A structured, production-oriented implementation of agentic AI workflows using LangGraph — covering stateless graphs through multi-agent coordination and RAG pipelines, with full local execution via Ollama.
+A FastAPI + Next.js customer support platform ("TechMart AI Support") that routes customer messages to five specialized agents, grounds every answer in a FAISS-indexed knowledge base, and tracks the full conversation lifecycle — sessions, sentiment, tickets, and escalation.
 
 **Approach:**
-- Built a phased learning and implementation path: stateless bot agents → persistent memory agents → conditional routing → ReAct tool-use → multi-agent coordination → RAG pipelines
-- Implemented `bot_agent`, `memory_agent`, `sequential_agent`, `conditional_agent`, `react_agent`, `looping_agent`, and `drafter_agent` as self-contained, progressively complex modules
-- Built a RAG pipeline (`rag_agent.py`) with ChromaDB as the vector store and Ollama (`mxbai-embed-large`) for local embeddings — no external API required
-- Designed all agents around LangGraph's `StateGraph` paradigm with explicit node/edge wiring and shared state management
+- Built five domain agents (Billing, Technical, Product, Complaint, FAQ) as subclasses of a shared `BaseAgent`, each overriding role description and domain-specific prompt rules
+- Implemented two-stage intent/sentiment detection — fast keyword classifier first (confidence ≥ 0.7 skips the LLM call entirely), with LLM-based classification as fallback for ambiguous messages
+- Built a RAG pipeline over eight knowledge-base documents using Sentence-Transformers embeddings (`all-MiniLM-L6-v2`) and a FAISS `IndexFlatL2` vector index, with source-cited responses
+- Designed a configurable, provider-agnostic LLM layer (Groq, OpenAI, or local Ollama) via an `AsyncOpenAI`-compatible client, with graceful fallback to static templated responses when no API key is set
+- Added JWT authentication, automatic support-ticket creation on complaint/frustrated sentiment, and email (SendGrid/SMTP) + WhatsApp (Twilio) escalation notifications
+- Deployed backend on Render and frontend on Vercel, with a usage analytics endpoint (agent/intent/sentiment distribution, response time)
 
-**Stack:** `Python` · `LangGraph` · `LangChain` · `Ollama` · `ChromaDB` · `Jupyter`
+**Stack:** `Python` · `FastAPI` · `Next.js` · `LangChain-style agent orchestration` · `FAISS` · `Sentence-Transformers` · `SQLAlchemy` · `Groq` · `OpenAI` · `Ollama` · `JWT` · `Twilio` · `SendGrid`
+
+**[Live Demo →](https://techmart-ai-support.vercel.app/)**
+
+---
+
+### DeepFER — Facial Emotion Recognition System
+
+**[Repository →](https://github.com/Mohit-1307/Facial-Emotion-Recognition-System)**
+
+End-to-end 7-class facial emotion recognition system trained on FER-2013, built two ways (CNN from scratch and MobileNetV2 transfer learning), with real-time webcam inference, a Flask web app, TFLite deployment optimization, and a pytest suite — engineered entirely under CPU-only, no-GPU, strict-timeout sandbox constraints.
+
+**Approach:**
+- Built a from-scratch CNN (617K parameters, GlobalAveragePooling2D over Flatten to control parameter count on a small, imbalanced dataset) and a MobileNetV2 transfer-learning model (two-phase training: frozen-backbone head training, then fine-tuning the top 30 layers at a reduced learning rate)
+- Computed balanced class weights from actual on-disk class counts to counteract FER-2013's severe class imbalance (`happy` at ~16.6x the volume of `disgust`)
+- Converted both trained models to TFLite with dynamic-range and full-int8 post-training quantization, benchmarking real latency and accuracy trade-offs for each variant
+- Built a Flask web app supporting both photo upload and live browser webcam inference, sharing a single `EmotionClassifier` class with the standalone desktop webcam script to guarantee identical results across interfaces
+- Investigated and fixed a silent evaluation bug where an unshuffled test-image ordering caused an early benchmark to score 7.4% instead of the correct 40.85%, rather than reporting the number at face value
+- Wrote a pytest suite for structural pipeline sanity checks and documented all constraints, trade-offs, and honest (compute-limited) accuracy results rather than presenting the checkpoints as fully converged
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `OpenCV` · `Flask` · `TFLite` · `Pytest`
+
+**Key Results:**
+- Transfer-learning model reached 43.19% test accuracy / 37.2% macro F1 in 8 total epochs (compute-limited, not fully converged); outperformed the from-scratch CNN (40.85% / 32.4% macro F1) despite fewer epochs
+- TFLite dynamic-range quantization cut the transfer model to 28% of its original size for a 0.5-point accuracy cost — the recommended production trade-off identified in the project
 
 ---
 
