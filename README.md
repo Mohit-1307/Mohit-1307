@@ -2,9 +2,9 @@
 
 <h1>MOHIT SINGH RAJPUT</h1>
 
-<p><strong>Machine Learning Engineer &nbsp;·&nbsp; Applied AI Engineer &nbsp;·&nbsp; End-to-End ML Systems</strong></p>
+<p><strong>AI/ML Engineer &nbsp;·&nbsp; Applied GenAI Engineer &nbsp;·&nbsp; Agentic &amp; RAG Systems</strong></p>
 
-<p>I design, build, and ship machine learning systems — from raw data to production — with a focus on reliability, reproducibility, and measurable impact.</p>
+<p>I design, build, and ship AI/ML systems — from data pipelines to production-grade GenAI applications — with a focus on reliability, reproducibility, and measurable impact.</p>
 
 <p>
   <a href="https://linkedin.com/in/mohitsingh1307">
@@ -32,9 +32,15 @@
 
 ## About
 
-I am a Machine Learning Engineer who works across the complete ML lifecycle — data acquisition, feature engineering, model development, evaluation, deployment, monitoring, and iteration. I treat machine learning as a software engineering discipline, not an experimentation exercise. That means reproducible pipelines, maintainable code, and systems that hold up under real-world conditions.
+I build and ship AI/ML systems across the full lifecycle, treating GenAI and ML as software engineering disciplines, not experimentation exercises.
+My current focus:
+→ Classical ML — feature engineering, model selection, evaluation design
+→ Deep Learning — CNNs, transfer learning, deployment-constrained training (quantization, TFLite/ONNX export, CPU-only inference)
+→ Applied GenAI — agentic systems (LangGraph), RAG pipelines, LLM evaluation, scalable LLM inference
 
-My current focus sits at the intersection of classical ML, deep learning, and production-grade Generative AI — particularly agentic systems with LangGraph, RAG pipelines, LLM evaluation, and scalable inference.
+That means reproducible pipelines, maintainable code, and systems that hold up under real-world conditions — not just validation metrics.
+
+One flag: I don't have your actual repo history, so "TFLite/ONNX export, CPU-only inference" is inferred from your earlier prompt (matches your DeepFER project) — verify it's still accurate for what you want this bio to represent before pasting it in.
 
 ---
 
