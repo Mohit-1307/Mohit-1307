@@ -83,28 +83,6 @@ A FastAPI + Next.js customer support platform ("TechMart AI Support") that route
 
 ---
 
-### DeepFER — Facial Emotion Recognition System
-
-**[Repository →](https://github.com/Mohit-1307/Facial-Emotion-Recognition-System)**
-
-End-to-end 7-class facial emotion recognition system trained on FER-2013, built two ways (CNN from scratch and MobileNetV2 transfer learning), with real-time webcam inference, a Flask web app, TFLite deployment optimization, and a pytest suite — engineered entirely under CPU-only, no-GPU, strict-timeout sandbox constraints.
-
-**Approach:**
-- Built a from-scratch CNN (617K parameters, GlobalAveragePooling2D over Flatten to control parameter count on a small, imbalanced dataset) and a MobileNetV2 transfer-learning model (two-phase training: frozen-backbone head training, then fine-tuning the top 30 layers at a reduced learning rate)
-- Computed balanced class weights from actual on-disk class counts to counteract FER-2013's severe class imbalance (`happy` at ~16.6x the volume of `disgust`)
-- Converted both trained models to TFLite with dynamic-range and full-int8 post-training quantization, benchmarking real latency and accuracy trade-offs for each variant
-- Built a Flask web app supporting both photo upload and live browser webcam inference, sharing a single `EmotionClassifier` class with the standalone desktop webcam script to guarantee identical results across interfaces
-- Investigated and fixed a silent evaluation bug where an unshuffled test-image ordering caused an early benchmark to score 7.4% instead of the correct 40.85%, rather than reporting the number at face value
-- Wrote a pytest suite for structural pipeline sanity checks and documented all constraints, trade-offs, and honest (compute-limited) accuracy results rather than presenting the checkpoints as fully converged
-
-**Stack:** `Python` · `TensorFlow` · `Keras` · `OpenCV` · `Flask` · `TFLite` · `Pytest`
-
-**Key Results:**
-- Transfer-learning model reached 43.19% test accuracy / 37.2% macro F1 in 8 total epochs (compute-limited, not fully converged); outperformed the from-scratch CNN (40.85% / 32.4% macro F1) despite fewer epochs
-- TFLite dynamic-range quantization cut the transfer model to 28% of its original size for a 0.5-point accuracy cost — the recommended production trade-off identified in the project
-
----
-
 ### Emotion Recognition from Speech
 
 **[Repository →](https://github.com/Mohit-1307/CodeAlpha_EmotionRecognitionFromSpeech)**
