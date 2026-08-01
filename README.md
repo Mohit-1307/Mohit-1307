@@ -85,7 +85,7 @@ A FastAPI + Next.js customer support platform ("TechMart AI Support") that route
 
 ### Emotion Recognition from Speech
 
-**[Repository →](https://github.com/Mohit-1307/CodeAlpha_EmotionRecognitionFromSpeech)**
+**[Repository →](https://github.com/Mohit-1307/Emotion-Recognition-from-Speech)**
 
 Deep learning system for classifying speech emotion from audio using MFCC feature extraction and a CNN model trained on the RAVDESS dataset, with a real-time Streamlit interface.
 
@@ -101,7 +101,7 @@ Deep learning system for classifying speech emotion from audio using MFCC featur
 
 ### Heart Disease Prediction from Medical Data
 
-**[Repository →](https://github.com/Mohit-1307/CodeAlpha-DiseasePredictionfromMedicalData)**
+**[Repository →](https://github.com/Mohit-1307/Heart-Disease-Prediction)**
 
 End-to-end supervised ML pipeline for heart disease risk classification using 13 clinical features from the UCI Heart Disease dataset, with a real-time Streamlit inference interface.
 
@@ -122,7 +122,7 @@ End-to-end supervised ML pipeline for heart disease risk classification using 13
 
 ### Handwritten Character Recognition — CNN
 
-**[Repository →](https://github.com/Mohit-1307/CodeAlpha-HandwrittenCharacterRecognition)**
+**[Repository →](https://github.com/Mohit-1307/Handwritten-Digit-Recognition)**
 
 CNN-based digit recognition system trained on MNIST with a robust OpenCV preprocessing pipeline for real-world image normalization and a Streamlit inference interface.
 
@@ -142,7 +142,7 @@ CNN-based digit recognition system trained on MNIST with a robust OpenCV preproc
 
 ### Shopper Spectrum — Customer Segmentation & Product Recommendations
 
-**[Repository →](https://github.com/Mohit-1307)**
+**[Repository →](https://github.com/Mohit-1307/Shopper-Spectrum)**
 
 End-to-end unsupervised ML pipeline for e-commerce customer segmentation using RFM analysis and four clustering algorithms, paired with collaborative filtering and TF-IDF content-based recommendations, deployed as a Streamlit app.
 
@@ -162,7 +162,7 @@ End-to-end unsupervised ML pipeline for e-commerce customer segmentation using R
 
 ### Flipkart CSAT Prediction
 
-**[Repository →](https://github.com/Mohit-1307)**
+**[Repository →](https://github.com/Mohit-1307/Flipkart-CSAT-Prediction)**
 
 Supervised classification pipeline for predicting customer satisfaction scores from Flipkart support interaction data to enable proactive service quality management.
 
