@@ -83,6 +83,29 @@ A FastAPI + Next.js customer support platform ("TechMart AI Support") that route
 
 ---
 
+### DeepFER — Facial Emotion Recognition Using Deep Learning
+
+**[Repository →](https://github.com/Mohit-1307/Facial-Emotion-Recognition-System)**
+
+An end-to-end 7-class facial emotion classifier (angry, disgust, fear, happy, neutral, sad, surprise) trained on FER-2013, implemented two ways — a from-scratch CNN and a MobileNetV2 transfer-learning model — with real-time webcam inference, a Flask web app, TFLite deployment optimization, and full evaluation.
+
+**Approach:**
+- Built a stratified train/val/test split pipeline (`prepare_dataset.py`) and a `tf.data` augmentation pipeline (rotation, zoom, flip, translation), with balanced class weights computed from actual on-disk class counts to counter FER-2013's severe imbalance (`happy` outnumbers `disgust` ~16.6x)
+- Designed a from-scratch CNN (4 conv blocks, 32→64→128→256 filters, BatchNorm + ReLU, GlobalAveragePooling2D instead of Flatten to control parameter count) — 617K parameters total
+- Built a MobileNetV2 transfer-learning model (ImageNet-pretrained backbone, 96×96 RGB input, two-phase training: frozen-backbone head training, then fine-tuning the top 30 layers at a 100x lower learning rate with BatchNorm frozen)
+- Converted both models to TFLite with dynamic-range and full-int8 post-training quantization, benchmarking real latency and accuracy trade-offs for edge deployment
+- Shipped real-time webcam inference (OpenCV Haar-cascade detection) and a Flask web app (photo upload + live browser webcam) sharing a single `EmotionClassifier` class between both interfaces
+- Caught and fixed a silent evaluation bug where an unshuffled test-directory listing produced a class-skewed accuracy sample (7.4% vs. the correct 40.85%), by switching to a seeded random sample
+
+**Stack:** `Python` · `TensorFlow` · `Keras` · `OpenCV` · `Flask` · `TFLite` · `NumPy` · `Matplotlib`
+
+**Key Results (measured on a CPU-only, single-core training environment — see repo for full compute-constraint notes):**
+- Scratch CNN: 40.85% test accuracy (Macro F1 32.4%) after 10 epochs
+- Transfer (fine-tuned): 43.19% test accuracy (Macro F1 37.2%) after 8 total epochs — outperforms the scratch model despite fewer epochs
+- TFLite quantization: up to 72–74% size reduction and ~1.5–2x additional latency improvement over baseline TFLite conversion, with model-dependent accuracy trade-offs documented per variant
+
+---
+
 ### Emotion Recognition from Speech
 
 **[Repository →](https://github.com/Mohit-1307/Emotion-Recognition-from-Speech)**
