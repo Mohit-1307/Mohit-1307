@@ -40,8 +40,6 @@ My current focus:
 
 That means reproducible pipelines, maintainable code, and systems that hold up under real-world conditions — not just validation metrics.
 
-One flag: I don't have your actual repo history, so "TFLite/ONNX export, CPU-only inference" is inferred from your earlier prompt (matches your DeepFER project) — verify it's still accurate for what you want this bio to represent before pasting it in.
-
 ---
 
 ## Technical Stack
