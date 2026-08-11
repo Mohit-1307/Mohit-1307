@@ -77,7 +77,7 @@ A FastAPI + Next.js customer support platform ("TechMart AI Support") that route
 
 **Stack:** `Python` · `FastAPI` · `Next.js` · `LangChain-style agent orchestration` · `FAISS` · `Sentence-Transformers` · `SQLAlchemy` · `Groq` · `OpenAI` · `Ollama` · `JWT` · `Twilio` · `SendGrid`
 
-**[Live Demo →](https://techmart-ai-support.vercel.app/)**
+**[Live Demo →](https://techmart-ai-support.vercel.app)**
 
 ---
 
